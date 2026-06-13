@@ -1,0 +1,16 @@
+com\attendance\model\AttendanceRecord.class
+com\attendance\model\Student.class
+com\attendance\ui\LoginFrame.class
+com\attendance\service\BackupService.class
+com\attendance\util\CsvUtil.class
+com\attendance\service\AuthService.class
+com\attendance\util\AppPaths.class
+com\attendance\service\AttendanceService.class
+com\attendance\ui\MainFrame$CheckedRunnable.class
+com\attendance\service\StudentService.class
+com\attendance\ui\Theme.class
+com\attendance\ui\MainFrame$1.class
+com\attendance\ui\MainFrame.class
+com\attendance\ui\Theme$1.class
+com\attendance\Main.class
+com\attendance\service\ReportService.class
