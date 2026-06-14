@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish12305" alt="ashish12305" /></a> </p>
 
-- 🔭 I’m currently working on [Library Management System](https://github.com/Ashish12305/Library_management_system)
+- 🔭 I’m currently working on [Attendance Management System](https://github.com/Ashish12305/Attendance-Management-System/tree/main)
 
 - 🌱 I’m currently learning **Full-Stack Developer**
 
